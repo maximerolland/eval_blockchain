@@ -21,6 +21,7 @@ Rendu
 
 Rendu de l'eval de blockchain , j'avoue ne pas avoir compris grand chose 
 Du coup simplement déployer le fichier eval que tu nous as donner en cours.
-- https://ropsten.etherscan.io/tx/0x993f16bd054a87a991d7f3dbfaedd417c2a497c13ebfd71581786591e70a9870
-- https://ropsten.etherscan.io/tx/0x0d8e16d9629e853a33cadd87ab44bfb886e0d200629ff8421935d03b3340e9ec
-- https://ropsten.etherscan.io/tx/0xc99868f052dc0c4fe58fd8f49ca1bfd1c716d91d7b2a8a2cafc272a4869ceafe
+- 0x376934744F6cE5e3C63FEd786fF063D44bF5ea50
+- 0xBd58847C07B1Ad5B106C02dA2Dc38103059d31FA
+
+Comme tu l'as vue j'ai pas trouver comment me mettre propriétaire du contrat
